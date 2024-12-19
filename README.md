@@ -66,3 +66,4 @@ open up localhost:
 
 Save the URI:
 221082216147.dkr.ecr.us-east-1.amazonaws.com/medical_chatbot
+
